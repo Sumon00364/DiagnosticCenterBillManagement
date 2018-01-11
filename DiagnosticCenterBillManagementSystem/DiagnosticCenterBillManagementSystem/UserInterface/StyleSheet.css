@@ -1,0 +1,60 @@
+﻿h1{
+    text-align:center;
+    font-family:sans-serif;
+    color:brown;
+}
+
+table{
+    margin:0 auto;
+    font-family:Calibri;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+}
+
+a:hover{
+    color:gray;
+}
+
+.heading{
+    margin-bottom:70px;
+}
+
+.entryMenu{
+    padding-top:20px;
+    height:200px;
+    float:left;
+    padding-left:95px;
+}
+
+.reportMenu{
+    padding-top:20px;
+    height:200px;
+    float:right;
+    padding-right:95px;
+}
+.clearFix{
+    clear:both;
+}
+
+#menu{
+    border:1px solid brown;
+    width:50%;
+    margin:0 auto;
+}
+
+#inputFieldset{
+    border:2px solid green;
+    width:50%;
+    margin:0 auto;
+}
+
+#inputFieldset div{
+    margin:auto;
+    width:50%;
+    border: 1px solid black;
+    padding:10px;
+    margin-bottom:10px;
+}
